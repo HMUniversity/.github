@@ -1,1 +1,1 @@
-![](WeAreHMU.png)
+![](https://raw.githubusercontent.com/HMUniversity/.github/master/profile/WeAreHMU.png)
