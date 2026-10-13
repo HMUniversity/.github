@@ -1,7 +1,3 @@
-> [!WARNING]  
-> Bilibili account _[家里蹲大学本科招生](https://space.bilibili.com/353262719)_ (UID 353262719) has **NO** relationship with this organisation. **DO NOT** trust them.  
-> 哔哩哔哩账户 _[家里蹲大学本科招生](https://space.bilibili.com/353262719)_（UID 353262719）与本组织**无关联**。**请勿相信 TA**。
-
 ![](https://raw.githubusercontent.com/HMUniversity/.github/master/profile/WeAreHMU.png)
 
 The colour meaning of our University badge:
